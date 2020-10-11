@@ -1,0 +1,11 @@
+/home/pi/Documents/C#/002/Basics/bin/Debug/netcoreapp3.1/Basics
+/home/pi/Documents/C#/002/Basics/bin/Debug/netcoreapp3.1/Basics.deps.json
+/home/pi/Documents/C#/002/Basics/bin/Debug/netcoreapp3.1/Basics.runtimeconfig.json
+/home/pi/Documents/C#/002/Basics/bin/Debug/netcoreapp3.1/Basics.runtimeconfig.dev.json
+/home/pi/Documents/C#/002/Basics/bin/Debug/netcoreapp3.1/Basics.dll
+/home/pi/Documents/C#/002/Basics/bin/Debug/netcoreapp3.1/Basics.pdb
+/home/pi/Documents/C#/002/Basics/obj/Debug/netcoreapp3.1/Basics.csprojAssemblyReference.cache
+/home/pi/Documents/C#/002/Basics/obj/Debug/netcoreapp3.1/Basics.AssemblyInfoInputs.cache
+/home/pi/Documents/C#/002/Basics/obj/Debug/netcoreapp3.1/Basics.AssemblyInfo.cs
+/home/pi/Documents/C#/002/Basics/obj/Debug/netcoreapp3.1/Basics.dll
+/home/pi/Documents/C#/002/Basics/obj/Debug/netcoreapp3.1/Basics.pdb
