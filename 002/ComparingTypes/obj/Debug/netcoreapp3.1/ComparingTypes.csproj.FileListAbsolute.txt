@@ -1,0 +1,11 @@
+/home/pi/Documents/C#/002/ComparingTypes/obj/Debug/netcoreapp3.1/ComparingTypes.csprojAssemblyReference.cache
+/home/pi/Documents/C#/002/ComparingTypes/obj/Debug/netcoreapp3.1/ComparingTypes.AssemblyInfoInputs.cache
+/home/pi/Documents/C#/002/ComparingTypes/obj/Debug/netcoreapp3.1/ComparingTypes.AssemblyInfo.cs
+/home/pi/Documents/C#/002/ComparingTypes/bin/Debug/netcoreapp3.1/ComparingTypes
+/home/pi/Documents/C#/002/ComparingTypes/bin/Debug/netcoreapp3.1/ComparingTypes.deps.json
+/home/pi/Documents/C#/002/ComparingTypes/bin/Debug/netcoreapp3.1/ComparingTypes.runtimeconfig.json
+/home/pi/Documents/C#/002/ComparingTypes/bin/Debug/netcoreapp3.1/ComparingTypes.runtimeconfig.dev.json
+/home/pi/Documents/C#/002/ComparingTypes/bin/Debug/netcoreapp3.1/ComparingTypes.dll
+/home/pi/Documents/C#/002/ComparingTypes/bin/Debug/netcoreapp3.1/ComparingTypes.pdb
+/home/pi/Documents/C#/002/ComparingTypes/obj/Debug/netcoreapp3.1/ComparingTypes.dll
+/home/pi/Documents/C#/002/ComparingTypes/obj/Debug/netcoreapp3.1/ComparingTypes.pdb
