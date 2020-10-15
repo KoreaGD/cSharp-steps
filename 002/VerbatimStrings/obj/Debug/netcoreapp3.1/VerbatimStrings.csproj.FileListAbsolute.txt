@@ -1,0 +1,11 @@
+/home/pi/Documents/C#/002/VerbatimStrings/obj/Debug/netcoreapp3.1/VerbatimStrings.csprojAssemblyReference.cache
+/home/pi/Documents/C#/002/VerbatimStrings/obj/Debug/netcoreapp3.1/VerbatimStrings.AssemblyInfoInputs.cache
+/home/pi/Documents/C#/002/VerbatimStrings/obj/Debug/netcoreapp3.1/VerbatimStrings.AssemblyInfo.cs
+/home/pi/Documents/C#/002/VerbatimStrings/bin/Debug/netcoreapp3.1/VerbatimStrings
+/home/pi/Documents/C#/002/VerbatimStrings/bin/Debug/netcoreapp3.1/VerbatimStrings.deps.json
+/home/pi/Documents/C#/002/VerbatimStrings/bin/Debug/netcoreapp3.1/VerbatimStrings.runtimeconfig.json
+/home/pi/Documents/C#/002/VerbatimStrings/bin/Debug/netcoreapp3.1/VerbatimStrings.runtimeconfig.dev.json
+/home/pi/Documents/C#/002/VerbatimStrings/bin/Debug/netcoreapp3.1/VerbatimStrings.dll
+/home/pi/Documents/C#/002/VerbatimStrings/bin/Debug/netcoreapp3.1/VerbatimStrings.pdb
+/home/pi/Documents/C#/002/VerbatimStrings/obj/Debug/netcoreapp3.1/VerbatimStrings.dll
+/home/pi/Documents/C#/002/VerbatimStrings/obj/Debug/netcoreapp3.1/VerbatimStrings.pdb
