@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ExploringNumberSizes/1.0.0": {
+        "runtime": {
+          "ExploringNumberSizes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExploringNumberSizes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

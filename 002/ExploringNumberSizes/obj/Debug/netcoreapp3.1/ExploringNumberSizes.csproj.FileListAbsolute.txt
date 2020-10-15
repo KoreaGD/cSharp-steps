@@ -1,0 +1,11 @@
+/home/pi/Documents/C#/002/ExploringNumberSizes/obj/Debug/netcoreapp3.1/ExploringNumberSizes.csprojAssemblyReference.cache
+/home/pi/Documents/C#/002/ExploringNumberSizes/obj/Debug/netcoreapp3.1/ExploringNumberSizes.AssemblyInfoInputs.cache
+/home/pi/Documents/C#/002/ExploringNumberSizes/obj/Debug/netcoreapp3.1/ExploringNumberSizes.AssemblyInfo.cs
+/home/pi/Documents/C#/002/ExploringNumberSizes/bin/Debug/netcoreapp3.1/ExploringNumberSizes
+/home/pi/Documents/C#/002/ExploringNumberSizes/bin/Debug/netcoreapp3.1/ExploringNumberSizes.deps.json
+/home/pi/Documents/C#/002/ExploringNumberSizes/bin/Debug/netcoreapp3.1/ExploringNumberSizes.runtimeconfig.json
+/home/pi/Documents/C#/002/ExploringNumberSizes/bin/Debug/netcoreapp3.1/ExploringNumberSizes.runtimeconfig.dev.json
+/home/pi/Documents/C#/002/ExploringNumberSizes/bin/Debug/netcoreapp3.1/ExploringNumberSizes.dll
+/home/pi/Documents/C#/002/ExploringNumberSizes/bin/Debug/netcoreapp3.1/ExploringNumberSizes.pdb
+/home/pi/Documents/C#/002/ExploringNumberSizes/obj/Debug/netcoreapp3.1/ExploringNumberSizes.dll
+/home/pi/Documents/C#/002/ExploringNumberSizes/obj/Debug/netcoreapp3.1/ExploringNumberSizes.pdb
