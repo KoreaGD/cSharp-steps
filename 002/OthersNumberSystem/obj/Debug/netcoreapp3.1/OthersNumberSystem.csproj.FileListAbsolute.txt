@@ -1,0 +1,11 @@
+/home/pi/Documents/C#/002/OthersNumberSystem/bin/Debug/netcoreapp3.1/OthersNumberSystem
+/home/pi/Documents/C#/002/OthersNumberSystem/bin/Debug/netcoreapp3.1/OthersNumberSystem.deps.json
+/home/pi/Documents/C#/002/OthersNumberSystem/bin/Debug/netcoreapp3.1/OthersNumberSystem.runtimeconfig.json
+/home/pi/Documents/C#/002/OthersNumberSystem/bin/Debug/netcoreapp3.1/OthersNumberSystem.runtimeconfig.dev.json
+/home/pi/Documents/C#/002/OthersNumberSystem/bin/Debug/netcoreapp3.1/OthersNumberSystem.dll
+/home/pi/Documents/C#/002/OthersNumberSystem/bin/Debug/netcoreapp3.1/OthersNumberSystem.pdb
+/home/pi/Documents/C#/002/OthersNumberSystem/obj/Debug/netcoreapp3.1/OthersNumberSystem.csprojAssemblyReference.cache
+/home/pi/Documents/C#/002/OthersNumberSystem/obj/Debug/netcoreapp3.1/OthersNumberSystem.AssemblyInfoInputs.cache
+/home/pi/Documents/C#/002/OthersNumberSystem/obj/Debug/netcoreapp3.1/OthersNumberSystem.AssemblyInfo.cs
+/home/pi/Documents/C#/002/OthersNumberSystem/obj/Debug/netcoreapp3.1/OthersNumberSystem.dll
+/home/pi/Documents/C#/002/OthersNumberSystem/obj/Debug/netcoreapp3.1/OthersNumberSystem.pdb
