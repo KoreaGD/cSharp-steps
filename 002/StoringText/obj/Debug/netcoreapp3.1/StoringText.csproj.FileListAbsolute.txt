@@ -1,0 +1,11 @@
+/home/pi/Documents/C#/002/StoringText/obj/Debug/netcoreapp3.1/StoringText.csprojAssemblyReference.cache
+/home/pi/Documents/C#/002/StoringText/obj/Debug/netcoreapp3.1/StoringText.AssemblyInfoInputs.cache
+/home/pi/Documents/C#/002/StoringText/obj/Debug/netcoreapp3.1/StoringText.AssemblyInfo.cs
+/home/pi/Documents/C#/002/StoringText/bin/Debug/netcoreapp3.1/StoringText
+/home/pi/Documents/C#/002/StoringText/bin/Debug/netcoreapp3.1/StoringText.deps.json
+/home/pi/Documents/C#/002/StoringText/bin/Debug/netcoreapp3.1/StoringText.runtimeconfig.json
+/home/pi/Documents/C#/002/StoringText/bin/Debug/netcoreapp3.1/StoringText.runtimeconfig.dev.json
+/home/pi/Documents/C#/002/StoringText/bin/Debug/netcoreapp3.1/StoringText.dll
+/home/pi/Documents/C#/002/StoringText/bin/Debug/netcoreapp3.1/StoringText.pdb
+/home/pi/Documents/C#/002/StoringText/obj/Debug/netcoreapp3.1/StoringText.dll
+/home/pi/Documents/C#/002/StoringText/obj/Debug/netcoreapp3.1/StoringText.pdb
