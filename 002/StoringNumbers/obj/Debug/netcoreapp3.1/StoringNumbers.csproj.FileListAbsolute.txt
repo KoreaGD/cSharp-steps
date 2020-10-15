@@ -1,0 +1,11 @@
+/home/pi/Documents/C#/002/StoringNumbers/bin/Debug/netcoreapp3.1/StoringNumbers
+/home/pi/Documents/C#/002/StoringNumbers/bin/Debug/netcoreapp3.1/StoringNumbers.deps.json
+/home/pi/Documents/C#/002/StoringNumbers/bin/Debug/netcoreapp3.1/StoringNumbers.runtimeconfig.json
+/home/pi/Documents/C#/002/StoringNumbers/bin/Debug/netcoreapp3.1/StoringNumbers.runtimeconfig.dev.json
+/home/pi/Documents/C#/002/StoringNumbers/bin/Debug/netcoreapp3.1/StoringNumbers.dll
+/home/pi/Documents/C#/002/StoringNumbers/bin/Debug/netcoreapp3.1/StoringNumbers.pdb
+/home/pi/Documents/C#/002/StoringNumbers/obj/Debug/netcoreapp3.1/StoringNumbers.csprojAssemblyReference.cache
+/home/pi/Documents/C#/002/StoringNumbers/obj/Debug/netcoreapp3.1/StoringNumbers.AssemblyInfoInputs.cache
+/home/pi/Documents/C#/002/StoringNumbers/obj/Debug/netcoreapp3.1/StoringNumbers.AssemblyInfo.cs
+/home/pi/Documents/C#/002/StoringNumbers/obj/Debug/netcoreapp3.1/StoringNumbers.dll
+/home/pi/Documents/C#/002/StoringNumbers/obj/Debug/netcoreapp3.1/StoringNumbers.pdb
