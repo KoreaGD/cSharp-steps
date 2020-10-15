@@ -1,0 +1,11 @@
+/home/pi/Documents/C#/002/StoringAnyTypeOfObject/obj/Debug/netcoreapp3.1/StoringAnyTypeOfObject.csprojAssemblyReference.cache
+/home/pi/Documents/C#/002/StoringAnyTypeOfObject/obj/Debug/netcoreapp3.1/StoringAnyTypeOfObject.AssemblyInfoInputs.cache
+/home/pi/Documents/C#/002/StoringAnyTypeOfObject/obj/Debug/netcoreapp3.1/StoringAnyTypeOfObject.AssemblyInfo.cs
+/home/pi/Documents/C#/002/StoringAnyTypeOfObject/bin/Debug/netcoreapp3.1/StoringAnyTypeOfObject
+/home/pi/Documents/C#/002/StoringAnyTypeOfObject/bin/Debug/netcoreapp3.1/StoringAnyTypeOfObject.deps.json
+/home/pi/Documents/C#/002/StoringAnyTypeOfObject/bin/Debug/netcoreapp3.1/StoringAnyTypeOfObject.runtimeconfig.json
+/home/pi/Documents/C#/002/StoringAnyTypeOfObject/bin/Debug/netcoreapp3.1/StoringAnyTypeOfObject.runtimeconfig.dev.json
+/home/pi/Documents/C#/002/StoringAnyTypeOfObject/bin/Debug/netcoreapp3.1/StoringAnyTypeOfObject.dll
+/home/pi/Documents/C#/002/StoringAnyTypeOfObject/bin/Debug/netcoreapp3.1/StoringAnyTypeOfObject.pdb
+/home/pi/Documents/C#/002/StoringAnyTypeOfObject/obj/Debug/netcoreapp3.1/StoringAnyTypeOfObject.dll
+/home/pi/Documents/C#/002/StoringAnyTypeOfObject/obj/Debug/netcoreapp3.1/StoringAnyTypeOfObject.pdb
